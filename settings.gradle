@@ -1,0 +1,4 @@
+rootProject.name = 'ZeusV2'
+
+include 'core'
+
